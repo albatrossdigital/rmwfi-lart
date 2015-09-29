@@ -18,10 +18,10 @@
     border: 1px solid gray;
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
     background-color: #fff;
     text-align: left;
     padding: 20px;
+    max-width: 870px;
 }
 h1 {
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
@@ -63,8 +63,7 @@ h4 {
 	font-variant: normal !important;
 	color: #d29229 !important;
 	font-weight: 400 !important;
-	line-height: 0px !important;
-	margin: 0 0 0 0 !important;
+	margin: 0 0 5px 0 !important;
    
 }
 h5 {
@@ -75,7 +74,7 @@ h5 {
 	color: #000 !important;
 	font-weight: 300 !important;
 	line-height: 18px !important;
-	margin: 0 0 0 0 !important;
+	margin: 0 0 5px 0 !important;
 }
 h6 {
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
@@ -114,8 +113,8 @@ h7 {
   font-size: 16px !important;
   padding: 10px 15px 10px 15px !important;
   text-decoration: none !important;
-  margin-left: 650px;
   margin-top: 10px;
+  margin-bottom: 30px;
   }
 
 .btn:hover {
